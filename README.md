@@ -1,2 +1,1 @@
-# til
-"Today I Learned" Diary
+# Today I Learned
