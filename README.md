@@ -2,4 +2,4 @@
 
 ## Subject
 - REPL
-- Batch processing
+- Batch request
