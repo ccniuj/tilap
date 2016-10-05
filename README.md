@@ -1,5 +1,5 @@
 # Today I Learned
 
 ## Subject
-- REPL
 - Batch request
+- CQRS pattern
