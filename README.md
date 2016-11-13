@@ -1,4 +1,4 @@
-# Today I Learned
+# Today I Learned And Practiced
 
 ## Resources
 ### Functional Programming
