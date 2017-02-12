@@ -9,3 +9,7 @@
 
 ### Machine Learning
 - [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+### Object-Oriented Programming
+- [Practical Object-Oriented Design in Ruby](https://github.com/davidjuin0519/tilap/blob/master/books/POODR.pdf)
+- [Growing Rails Application in Practice](https://github.com/davidjuin0519/tilap/blob/master/books/GRAP.pdf)
