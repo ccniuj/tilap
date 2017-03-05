@@ -9,6 +9,7 @@
 
 ### Machine Learning
 - [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome)
+- [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/#curriculum)
 
 ### Object-Oriented Programming
 - [Practical Object-Oriented Design in Ruby](https://github.com/davidjuin0519/tilap/blob/master/books/POODR.pdf)
